@@ -6,7 +6,7 @@
 
 
 <p align="center">
-Playbooks making plays on manual system and engineering tasks
+Ansible playbooks making plays on manual system and engineering tasks
 </p>
 
 
