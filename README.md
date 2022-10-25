@@ -5,7 +5,7 @@
 <h1 align="center">Automation Plays</h1>
 
 
-<p align="left">
+<p align="center">
 Ansible playbooks making plays on manual system and engineering tasks.
 </p>
 
